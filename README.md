@@ -1,7 +1,7 @@
 # Special purpose custom-built ipsec vpn server
 ### DISCLAIMER: THIS IS A FORK OF [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server).
 
-
+#### VPN Doesn't work on your windows device? Follow this guide [#](https://thegeekpage.com/l2tp-ipsec-vpn-does-wont-connect/)
 
 ## License
 
